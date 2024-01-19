@@ -1,7 +1,7 @@
-package com.example.demoHexa.src.adapter.in.web;
+package com.example.demoHexa.adapter.in.web;
 
-import com.example.demoHexa.src.application.domain.entity.Honey;
-import com.example.demoHexa.src.application.domain.service.HoneyDomainService;
+import com.example.demoHexa.application.domain.entity.Honey;
+import com.example.demoHexa.application.domain.service.HoneyDomainService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

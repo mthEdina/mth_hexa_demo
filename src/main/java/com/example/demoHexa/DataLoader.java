@@ -1,7 +1,7 @@
 package com.example.demoHexa;
 
-import com.example.demoHexa.src.application.domain.entity.Honey;
-import com.example.demoHexa.src.application.domain.service.HoneyDomainService;
+import com.example.demoHexa.application.domain.entity.Honey;
+import com.example.demoHexa.application.domain.service.HoneyDomainService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

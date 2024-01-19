@@ -1,4 +1,4 @@
-package com.example.demoHexa.src.application.domain.entity;
+package com.example.demoHexa.application.domain.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,7 +1,7 @@
-package com.example.demoHexa.src.adapter.out.persistence;
+package com.example.demoHexa.adapter.out.persistence;
 
-import com.example.demoHexa.src.application.domain.entity.Honey;
-import com.example.demoHexa.src.application.port.out.HoneyOutputPort;
+import com.example.demoHexa.application.domain.entity.Honey;
+import com.example.demoHexa.application.port.out.HoneyOutputPort;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;

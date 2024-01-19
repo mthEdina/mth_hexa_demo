@@ -1,6 +1,6 @@
-package com.example.demoHexa.src.application.port.in;
+package com.example.demoHexa.application.port.in;
 
-import com.example.demoHexa.src.application.domain.entity.Honey;
+import com.example.demoHexa.application.domain.entity.Honey;
 
 import java.util.List;
 import java.util.Optional;

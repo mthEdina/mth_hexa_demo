@@ -1,8 +1,8 @@
-package com.example.demoHexa.src.application.domain.service;
+package com.example.demoHexa.application.domain.service;
 
-import com.example.demoHexa.src.application.domain.entity.Honey;
-import com.example.demoHexa.src.application.port.in.HoneyInputPort;
-import com.example.demoHexa.src.application.port.out.HoneyOutputPort;
+import com.example.demoHexa.application.domain.entity.Honey;
+import com.example.demoHexa.application.port.in.HoneyInputPort;
+import com.example.demoHexa.application.port.out.HoneyOutputPort;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
