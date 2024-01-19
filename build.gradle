@@ -15,6 +15,12 @@ repositories {
 	mavenCentral()
 }
 
+bootJar {
+	archiveFileName = "demo-hexa.jar"
+	destinationDirectory = file("$buildDir/libs")
+}
+
+
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
