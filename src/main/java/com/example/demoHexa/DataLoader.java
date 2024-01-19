@@ -18,7 +18,7 @@ public class DataLoader implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         // List to store honey products
-        List<Honey> honeyProducts = new ArrayList<>();
+        /*List<Honey> honeyProducts = new ArrayList<>();
 
         Honey lavenderHoney = new Honey();
         lavenderHoney.setName("Lavender Honey");
@@ -57,7 +57,7 @@ public class DataLoader implements CommandLineRunner {
 
         for (Honey honeyProduct : honeyProducts) {
             productService.addProduct(honeyProduct);
-        }
+        }*/
     }
 }
 
